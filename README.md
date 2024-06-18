@@ -1,8 +1,8 @@
 # Hi, I'm Parth and Welcome to My Page! 👋
 
-- 🛠️ I am a software engineer by profession and a problem-solver at heart 
+- 🛠️ I am a software engineer by profession and a problem solver at heart 
 - 🚀 I’m currently studying Computer Science at the Georgia Institute of Technology.
-- 👀 I’m interested in a wide variety of engineering verticals across SaaS, Product, and FinTech
+- 👀 I’m interested in a wide variety of engineering verticals across SaaS, Product, FinTech, and Entrepreneurship
 - 💞️ Here you will find some programming projects I can proudly show off.
 - 💬 Feel free to reach out!
 
