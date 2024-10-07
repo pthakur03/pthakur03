@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/parth-thakur1/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/pthakur03)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://www.parth-thakur.com/)
-[![Email](https://img.shields.io/badge/Email-Send-red)](mailto:thakurparth1@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Send-red)](mailto:pthakur31@gatech.edu)
 
 ## 🛠 Technologies & Tools
 ![Agile](https://img.shields.io/badge/Agile-0078D4?style=flat-square&logo=agile&logoColor=white)
